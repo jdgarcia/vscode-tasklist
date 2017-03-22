@@ -1,0 +1,15 @@
+.listContainer {
+    display: flex;
+}
+
+.items {
+    flex: 1;
+}
+
+.item label.complete {
+    text-decoration: line-through;
+}
+
+.item span {
+    margin-left: 10px;
+}
