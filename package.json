@@ -1,9 +1,13 @@
 {
-  "name": "tasklist",
+  "name": "axo-joseg-tasklist",
   "displayName": "Tasklist",
   "description": "tasklist",
   "version": "0.0.1",
-  "publisher": "jdgarcia",
+  "publisher": "axo-joseg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdgarcia/vscode-tasklist.git"
+  },
   "engines": {
     "vscode": "^1.5.0"
   },
